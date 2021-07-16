@@ -3,6 +3,8 @@
 	"displayName": "Highlight Unexpected Characters",
 	"description": "Highlight all unexpected characters",
 	"version": "0.1.0",
+	"publisher": "Gizeta",
+	"repository": "https://github.com/Gizeta/vscode-highlight-unexpected-characters",
 	"engines": {
 		"vscode": "^1.58.0"
 	},
